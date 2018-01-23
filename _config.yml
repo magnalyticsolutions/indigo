@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Magnalytic Solutions
+bio: Custom Data Science Analyses
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -54,11 +54,11 @@ email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Magnalytic Solutions
+        bio: Powered by Data Science 
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        #twitter: johndoe
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
