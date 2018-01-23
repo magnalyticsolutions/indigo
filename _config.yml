@@ -56,8 +56,8 @@ authors:
     MagnalyticSolutions:
         name: Magnalytic Solutions
         bio:  
-        # external-image: false
-        #picture: assets/images/profile.jpg
+        external-image: false
+        picture: assets/images/profile.jpg
         
    
 
