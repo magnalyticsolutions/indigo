@@ -75,16 +75,16 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-#blog: false
+blog: false
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
