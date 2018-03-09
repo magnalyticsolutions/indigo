@@ -23,5 +23,5 @@ Scientic Computing - scaling your analyses and reach
 - Web-based application development
 - Database design
 
-<p>Please contact us directly to discuss your needs.</p>
+<p>Please [contact us](mailto:magnalyticsolutions@gmail.com) directly to discuss your needs.</p>
 
