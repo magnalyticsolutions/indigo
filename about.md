@@ -5,6 +5,10 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
+#Mission and Vision Statement
+
+At Magnaltyics, we are applying sequencing-based tools to make decisions on how to better manage human health and environmental benefits and risks.  We leverage our unique multi-disciplinary training and depth of expertise in experimental design and sequence-based analysis to deliver data analysis services to help provide solutions to our clients.
+
 <p>We provide custom data analyses for genomic technologies. </p>
 
 Omics analysis - data collection and interpretation
